@@ -1,4 +1,4 @@
-## VS Code C++ Code Demo
+## VS Code C++ Code Demo - Example main.cpp file 
 
 1. Install VS Code Cpp tools
 2. Add c_cpp_properties.json file
