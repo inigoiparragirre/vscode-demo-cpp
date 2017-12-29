@@ -1,0 +1,3 @@
+C:/Users/inigo/Desktop/C++/example-vs/build/CMakeFiles/example-vs.dir
+C:/Users/inigo/Desktop/C++/example-vs/build/CMakeFiles/edit_cache.dir
+C:/Users/inigo/Desktop/C++/example-vs/build/CMakeFiles/rebuild_cache.dir
